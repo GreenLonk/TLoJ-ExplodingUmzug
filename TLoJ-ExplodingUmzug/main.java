@@ -4,12 +4,14 @@ public class main
     private GLSchwenkkamera kamera;
     private GLLicht licht;
     private Apfel apfel;
+    private Waschmaschine waschmaschine;
     private Jannes jannes;
     public main()
     {
         kamera = new GLSchwenkkamera();
         licht = new GLLicht();
         apfel = new Apfel(0,0,0,10);
+        //waschmaschine = new Waschmaschine(0,0,0,10);
         
         fuehreAus();
     }
