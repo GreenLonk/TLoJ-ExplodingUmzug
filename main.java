@@ -24,6 +24,7 @@ public class main
         
         boden = new Spielfläche(500);
         
+        jannes = new Jannes(100,0,0,40);
         //fuehreAus();
     }
     
