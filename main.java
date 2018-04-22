@@ -11,14 +11,14 @@ public class main
         kamera = new GLSchwenkkamera();
         licht = new GLLicht();
         apfel = new Apfel(0,0,0,10);
-        //waschmaschine = new Waschmaschine(0,0,0,10);
+        waschmaschine = new Waschmaschine(0,0,0,100);
         
         fuehreAus();
     }
     
     public void fuehreAus(){
         Sys.warte(1000);
-        for(int i = 0; i < 50; i++){
+        for(int i = 0; i < 500; i++){
             apfel.fallen();
             Sys.warte(100);
         }
