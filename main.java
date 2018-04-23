@@ -36,13 +36,11 @@ public class main
     
     public void fuehreAus(){
         Sys.warte(1000);
-<<<<<<< HEAD
         for(int i = 0; i < 500; i++){
             apfel.fallen();
-=======
+        }
         for(int i = 0; i < 50; i++){
             //apfel.fallen();
->>>>>>> Maxi
             Sys.warte(100);
         }
     }

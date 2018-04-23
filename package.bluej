@@ -10,30 +10,20 @@ dependency3.to=Spielfl\u00E4che
 dependency3.type=UsesDependency
 editor.fx.0.height=739
 editor.fx.0.width=816
-<<<<<<< HEAD
-editor.fx.0.x=552
-editor.fx.0.y=100
+editor.fx.0.x=733
+editor.fx.0.y=122
 objectbench.height=219
 objectbench.width=487
 package.divider.horizontal=0.6002430133657352
 package.divider.vertical=0.7045751633986929
 package.editor.height=532
-=======
-editor.fx.0.x=733
-editor.fx.0.y=122
-objectbench.height=218
-objectbench.width=487
-package.divider.horizontal=0.6002430133657352
-package.divider.vertical=0.7058823529411765
-package.editor.height=533
->>>>>>> Maxi
 package.editor.width=708
 package.editor.x=501
 package.editor.y=132
 package.frame.height=865
 package.frame.width=859
 package.numDependencies=3
-package.numTargets=5
+package.numTargets=6
 package.showExtends=true
 package.showUses=true
 project.charset=UTF-8
@@ -56,49 +46,30 @@ target2.showInterface=false
 target2.type=ClassTarget
 target2.typeParameters=
 target2.width=80
-<<<<<<< HEAD
-target2.x=540
-target2.y=240
-=======
 target2.x=460
 target2.y=40
->>>>>>> Maxi
 target3.height=50
 target3.name=Apfel
 target3.showInterface=false
 target3.type=ClassTarget
 target3.typeParameters=
 target3.width=80
-<<<<<<< HEAD
-target3.x=50
-target3.y=240
-=======
 target3.x=220
 target3.y=180
->>>>>>> Maxi
 target4.height=50
 target4.name=main
 target4.showInterface=false
 target4.type=ClassTarget
 target4.typeParameters=
 target4.width=80
-<<<<<<< HEAD
-target4.x=270
-target4.y=420
-=======
 target4.x=70
 target4.y=10
->>>>>>> Maxi
 target5.height=50
 target5.name=Waschmaschine
 target5.showInterface=false
 target5.type=ClassTarget
 target5.typeParameters=
 target5.width=120
-<<<<<<< HEAD
-target5.x=10
-target5.y=150
-=======
 target5.x=380
 target5.y=180
 target6.height=50
@@ -108,5 +79,4 @@ target6.type=ClassTarget
 target6.typeParameters=
 target6.width=90
 target6.x=70
-target6.y=260
->>>>>>> Maxi
+target6.y=70
