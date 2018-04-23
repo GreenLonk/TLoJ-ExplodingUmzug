@@ -13,7 +13,7 @@ public class main
         apfel = new Apfel(0,0,0,10);
         waschmaschine = new Waschmaschine(0,0,0,100);
         
-        fuehreAus();
+        //fuehreAus();
     }
     
     public void fuehreAus(){
