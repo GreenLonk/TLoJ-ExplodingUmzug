@@ -17,9 +17,6 @@ public class main
     {
         kamera = new GLEntwicklerkamera();
         licht = new GLLicht();
-        kamera.setzePosition(0,300,450);
-        kamera.setzeBlickpunkt(0,0,0);
-        
         
         gras = new GLBoden("Texturen/Grastextur.jpg");
         himmel = new GLHimmel("Texturen/Himmel.png");
