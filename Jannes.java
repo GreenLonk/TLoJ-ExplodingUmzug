@@ -4,6 +4,7 @@ public class Jannes
     //Karton
     private GLQuader boden,seite1,seite2,seite3,seite4;
     private GLZylinder bein1,bein2;
+    
     //Brille
     private GLZylinder bügel1,bügel2;
     private GLTorus glas1,glas2;
