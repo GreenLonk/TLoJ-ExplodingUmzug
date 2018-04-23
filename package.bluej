@@ -8,12 +8,21 @@ dependency2.type=UsesDependency
 dependency3.from=main
 dependency3.to=Spielfl\u00E4che
 dependency3.type=UsesDependency
+<<<<<<< HEAD
 editor.fx.0.height=0
 editor.fx.0.width=0
 editor.fx.0.x=0
 editor.fx.0.y=0
 objectbench.height=220
 objectbench.width=487
+=======
+editor.fx.0.height=1056
+editor.fx.0.width=1936
+editor.fx.0.x=-8
+editor.fx.0.y=-8
+objectbench.height=219
+objectbench.width=819
+>>>>>>> Maxi
 package.divider.horizontal=0.6002430133657352
 package.divider.vertical=0.7032679738562092
 package.editor.height=531
@@ -78,5 +87,10 @@ target6.showInterface=false
 target6.type=ClassTarget
 target6.typeParameters=
 target6.width=90
+<<<<<<< HEAD
 target6.x=70
 target6.y=70
+=======
+target6.x=40
+target6.y=110
+>>>>>>> Maxi
