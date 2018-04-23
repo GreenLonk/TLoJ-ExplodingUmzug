@@ -17,6 +17,13 @@ public class main
     {
         kamera = new GLEntwicklerkamera();
         licht = new GLLicht();
+<<<<<<< HEAD
+=======
+        kamera.setzePosition(0,300,450);
+        kamera.setzeBlickpunkt(0,0,0);
+        
+        
+>>>>>>> Maxi
         gras = new GLBoden("Texturen/Grastextur.jpg");
         himmel = new GLHimmel("Texturen/Himmel.png");
         nebel = new GLNebel();
